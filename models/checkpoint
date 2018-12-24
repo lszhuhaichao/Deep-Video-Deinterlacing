@@ -1,0 +1,2 @@
+model_checkpoint_path: "TSNet_advanced.model"
+all_model_checkpoint_paths: "TSNet_advanced.model"
