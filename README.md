@@ -21,11 +21,10 @@ TensorFlow Implementation of ["Real-time Deep Video Deinterlacing"](https://arxi
 <div align="center">
 	<img src="results/10064_1.png" width="80%"/>
 </div>
+
 ### Run
-
 - Start deinterlacing
-
-```python
+```
 python runDeinterlacing.py --img_path=images/4.png
 ``` 
 
@@ -33,7 +32,7 @@ python runDeinterlacing.py --img_path=images/4.png
 - [lszhuhaichao](https://github.com/lszhuhaichao)
 
 ### Citation
-If you find this project useful, we will be grateful if you cite our paper£º
+If you find this project useful, we will be grateful if you cite our paper
 
 ```
 @article{zhu2017real,
@@ -45,5 +44,4 @@ If you find this project useful, we will be grateful if you cite our paper£º
 ```
 
 ### License
-
 - For academic and non-commercial use only.
