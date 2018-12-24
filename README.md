@@ -13,11 +13,13 @@ TensorFlow Implementation of ["Real-time Deep Video Deinterlacing"](https://arxi
 
 ### Results
 <div align="center">
-	<img src="images/10064.png" width="100%"/>
+	<img src="images/10064.png" width="50%"/>
 </div>
 <div align="center">
-	<img src="results/10064_0.png" width="50%"/>
-	<img src="results/10064_1.png" width="50%"/>
+	<img src="results/10064_0.png" width="80%"/>
+</div>
+<div align="center">
+	<img src="results/10064_1.png" width="80%"/>
 </div>
 
 ### Run
